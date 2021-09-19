@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
       <div className="main min-h-screen min-w-screen flex items-center justify-center flex-col">
         <img
-          className="h-16"
+          className="h-12"
           alt="Logo"
           src="https://cdn.discordapp.com/attachments/884302457923072000/889218554510082118/Group_2.png"
         />
