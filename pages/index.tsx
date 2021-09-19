@@ -16,7 +16,7 @@ export default function Home() {
           src="https://cdn.discordapp.com/attachments/884302457923072000/889218554510082118/Group_2.png"
         />
         <span className="text-white text-lg font-semibold mt-2">
-          We're currently loading server assets... this should only take a
+          We&#39re currently loading server assets... this should only take a
           minute!
         </span>
         <div>
